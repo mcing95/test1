@@ -73,7 +73,7 @@ public class Main {
 				break;
 				
 			}
-		} while(menu != 0);
+		} while(menu != 0);//
 	
 		sc.close();
 	}
